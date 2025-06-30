@@ -4,7 +4,7 @@
    
 <p align="center">
   <a href="https://github.com/codeashing">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Asharib+Ahmed" alt="Jonah Lawrence" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Muhammad+Ahmed" alt="Muhammad Ahmed" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer;GitHub+Campus+Expert;Empowering+solution+creation+for+success;Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
